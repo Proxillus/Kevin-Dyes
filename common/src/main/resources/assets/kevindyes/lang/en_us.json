@@ -1,4 +1,6 @@
 {
   "item.kevindyes.example_item": "Example Item",
-  "item.kevindyes.example_item2": "Example Item 2"
+  "item.kevindyes.example_item2": "Example Item 2",
+  "block.kevindyes.example_block": "Example Block",
+  "item.kevindyes.example_block": "Example Block"
 }

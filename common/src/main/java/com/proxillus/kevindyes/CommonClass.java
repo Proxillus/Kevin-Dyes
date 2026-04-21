@@ -1,5 +1,6 @@
 package com.proxillus.kevindyes;
 
+import com.proxillus.kevindyes.init.ModBlocks;
 import com.proxillus.kevindyes.init.ModItems;
 import com.proxillus.kevindyes.platform.Services;
 import net.minecraft.core.registries.BuiltInRegistries;
@@ -29,6 +30,7 @@ public class CommonClass {
             Constants.LOG.info("Hello to kevindyes");
         }
 
+        ModBlocks.load();
         ModItems.load();
     }
 }

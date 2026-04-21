@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kevindyes:block/example_block"
+    }
+  }
+}
